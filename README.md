@@ -1,4 +1,4 @@
-jiangzm.github.com
+jiangzm.github.io
 ==================
 
 My github pages
